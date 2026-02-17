@@ -56,19 +56,12 @@
 
 (More projects coming soon...)
 
----
-
-# 📊 GitHub Stats
-
-![Agraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agraja-kawale&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agraja-kawale&layout=compact)
 
 ---
 
 # 🤝 Connect with Me
 
-- LinkedIn: (linkedin.com/in/agraja-kawale3227)
+- LinkedIn: (https://www.linkedin.com/in/agraja-kawale3227)
 - Email: (agrajakawale@gmail.com)
 
 ---
