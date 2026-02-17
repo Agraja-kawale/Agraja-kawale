@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Agraja Kawale
 
-<!--
-**Agraja-kawale/Agraja-kawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst passionate about turning raw data into meaningful insights  
+📊 Skilled in SQL, Python, PostgreSQL, Power BI, and Data Visualization  
+📈 Building real-world data analysis projects to solve business problems  
+🎯 Actively seeking Data Analyst opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+- 🎓 Computer Science Engineering Graduate (2025)
+- 📊 Focused on Data Analysis and Visualization
+- 🧠 Strong in Data Cleaning, SQL Queries, and Dashboard creation
+- 📁 Building portfolio projects for real-world business scenarios
+- 🌱 Currently improving PostgreSQL, Python, and Power BI skills
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Visualization
+- Power BI
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Excel
+
+---
+
+# 📂 Featured Projects
+
+## 🏥 Hospital Patient Analysis
+- Data cleaning and analysis using Python & SQL
+- Created dashboard using Power BI
+- Identified key healthcare insights
+
+## 🍷 Wine Quality Analysis
+- Statistical analysis using Python
+- Central tendency and data distribution analysis
+
+(More projects coming soon...)
+
+---
+
+# 📊 GitHub Stats
+
+![Agraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agraja-kawale&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agraja-kawale&layout=compact)
+
+---
+
+# 🤝 Connect with Me
+
+- LinkedIn: (linkedin.com/in/agraja-kawale3227)
+- Email: (agrajakawale@gmail.com)
+
+---
+
+⭐ Building my journey toward becoming a professional Data Analyst
+
